@@ -132,12 +132,6 @@ npm run dev
 
 ---
 
-## 👨‍💻 Developed By
-
-- **Varun Kumar V**
-  
----
-
 ## 📚 References
 
 - [DeepSeek AI Documentation](https://deepseek.com/)
