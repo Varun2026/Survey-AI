@@ -29,7 +29,8 @@ SurveyAI is a full-stack web application that transforms traditional survey tool
 ## 📸 Screenshots Overview
 
 - 🏠 Home Page
-  
+  ![Screenshot 2025-05-09 001630](https://github.com/user-attachments/assets/ed881525-7b29-4ad7-ab3d-45558d78b621)
+
 - 🔐 Login/Register Pages  
 - 📝 Survey Creation Page  
 - 📊 AI-Powered Insight Dashboard  
@@ -58,7 +59,7 @@ SurveyAI is a full-stack web application that transforms traditional survey tool
 ### 📥 Clone and Install
 
 ```bash
-git clone https://github.com/Varun2026/surveyai.git
+git clone https://github.com/Varun2026/Survey-AI.git
 cd surveyai
 npm install
 cd client
